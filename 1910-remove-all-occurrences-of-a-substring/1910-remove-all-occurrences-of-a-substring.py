@@ -8,7 +8,7 @@ class Solution:
             stack+=s[i]
             check=""
             o=len(stack)
-            if i>=m-1 and o>=m and stack[-1]==part[-1]:
+            if i>=m-1 and o>=m :
                 check = stack[o-m::]
                 
                     
