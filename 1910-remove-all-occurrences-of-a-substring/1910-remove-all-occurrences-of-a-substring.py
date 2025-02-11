@@ -7,11 +7,12 @@ class Solution:
         for i in range(n):
             stack+=s[i]
             check=""
-            if i>=m-1 and len(stack)>=m and stack[-1]==part[-1]:
-                check = stack[len(stack)-m::]
+            o=len(stack)
+            if i>=m-1 and o>=m and stack[-1]==part[-1]:
+                check = stack[o-m::]
                 
                     
                 if check == part:
-                    stack = stack[0:len(stack)-m] 
+                    stack = stack[0:o-m] 
         return stack
         
