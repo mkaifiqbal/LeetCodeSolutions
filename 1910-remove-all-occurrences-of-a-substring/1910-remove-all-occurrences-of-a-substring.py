@@ -8,7 +8,7 @@ class Solution:
         for i in range(n):
             stack.append(s[i])
             check=""
-            if i>=m-1 and len(stack)>=m:
+            if i>=m-1 and len(stack)>=m and stack[-1]==part[-1]:
                 for j in range(m):
                     check +=stack[len(stack)-m+j]
                     
