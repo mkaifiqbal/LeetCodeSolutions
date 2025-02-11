@@ -22,7 +22,6 @@ class Solution:
         n= len(s)
         m=len(part)
         stack =""
-        ans=""
 
         for i in range(n):
             stack+=s[i]
@@ -32,8 +31,6 @@ class Solution:
                 
                     
                 if check == part:
-                    stack = stack[0:len(stack)-m]
-
-        
+                    stack = stack[0:len(stack)-m] 
         return stack
         
