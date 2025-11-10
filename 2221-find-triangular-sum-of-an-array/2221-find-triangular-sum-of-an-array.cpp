@@ -7,12 +7,13 @@ public:
         for(int i=0;i< n-1;i++){
             vector<int> temp1;
             for(int j=1;j< n-i;j++){
-                int sum=temp[i][j-1]+ temp[i][j];
+                int sum=temp[0][j-1]+ temp[0][j];
                 temp1.push_back(sum%10);
                 
             }
+            temp.pop_back();
             temp.push_back(temp1);
         }
-        return temp.back()[0];
+        return temp[0][0];
     }
 };
