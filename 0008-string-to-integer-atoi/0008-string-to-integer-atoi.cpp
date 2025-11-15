@@ -23,7 +23,7 @@ public:
 
                 if (neg && -ans < (INT_MIN + digit) / 10)
                     return INT_MIN;
-                ans =ans*10 +(s[j]-'0');     
+                ans =ans*10 +digit;     
             }
             else {
                 if(neg) ans*= -1;
