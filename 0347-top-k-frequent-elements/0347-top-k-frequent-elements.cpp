@@ -5,13 +5,16 @@ public:
         for(int i=0;i<nums.size();i++){
             fre[nums[i]]++;
         }
-        vector<pair<int,int>> sor(fre.begin(),fre.end());
-        sort(sor.begin(),sor.end(),[](const pair<int,int> &a, const pair<int,int> &b){
-            return a.second > b.second;
-        });
+
+        priority_queue<pair<int,int>> pq;
+        for(auto &a: fre){
+            pq.push({a.second,a.first});
+        }
         vector<int> ans;
         for(int i=0;i<k;i++){
-            ans.push_back(sor[i].first);
+
+            ans.push_back(pq.top().second);
+            pq.pop();
         }
         return ans;
     }
