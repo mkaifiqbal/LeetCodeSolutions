@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n= nums.size();
-        vector<int> ans;
+        vector<int> ans(n);
         vector<long long> left;
         vector<long long> right(n);
         long long mul1 =1;
@@ -15,9 +15,9 @@ public:
 
         }
         for(int i=0;i<n;i++){
-            if(i==0) ans.push_back(right[1]);
-            else if(i==n-1) ans.push_back(left[i-1]);
-            else ans.push_back(left[i-1]*right[i+1]);
+            if(i==0) ans[i]=right[1];
+            else if(i==n-1) ans[i]=left[i-1];
+            else ans[i]=left[i-1]*right[i+1];
         }
         
         return ans;
