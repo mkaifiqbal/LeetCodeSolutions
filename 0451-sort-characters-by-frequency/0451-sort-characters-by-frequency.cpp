@@ -11,7 +11,9 @@ public:
             return a.second > b.second;
         });
         for(auto &it: v){
-            for(int i=0;i<it.second;i++) ans += it.first;
+            string temp="";
+            temp.append(it.second,it.first);
+            ans+= temp;
         }
         return ans;
      
