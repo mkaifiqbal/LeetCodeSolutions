@@ -1,7 +1,6 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        int n = s.size();
         string ans="";
         unordered_map<char, int> mp;
         for(auto ch : s) mp[ch]++;
@@ -11,9 +10,7 @@ public:
             return a.second > b.second;
         });
         for(auto &it: v){
-            // string temp="";
             ans.append(it.second,it.first);
-            // ans+= temp;
         }
         return ans;
      
