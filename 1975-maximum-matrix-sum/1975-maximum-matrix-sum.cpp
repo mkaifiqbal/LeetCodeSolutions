@@ -9,10 +9,9 @@ public:
             for(int j=0;j<n;j++){
                 if(matrix[i][j]<0){
                     neg++;
-                    matrix[i][j] = (-1*matrix[i][j]);
                 }
-                sum += matrix[i][j];
-                if(matrix[i][j]<minele) minele = matrix[i][j];
+                sum += abs(matrix[i][j]);
+                minele = min(abs(matrix[i][j]),minele);
             }
         }
         if(neg %2==0) return sum;
