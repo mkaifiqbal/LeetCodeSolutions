@@ -14,8 +14,8 @@ public:
                 minele = min(abs(matrix[i][j]),minele);
             }
         }
-        if(neg %2==0) return sum;
-        return sum-(2*minele);
+        if(neg %2)  sum -=(2*minele);
+        return sum;
        
     }
 };
