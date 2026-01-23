@@ -9,8 +9,10 @@ public:
 
         while(s<=end){
             int mid= (s+end)/2;
-            if(matrix[mid/n][mid%m]== target) return true;
-            if(matrix[mid/n][mid%m]>target){
+            int r=mid/m;
+            int c =mid%m;
+            if(matrix[r][c]== target) return true;
+            if(matrix[r][c]>target){
                 end= mid-1;
             }else{
                 s=mid+1;
