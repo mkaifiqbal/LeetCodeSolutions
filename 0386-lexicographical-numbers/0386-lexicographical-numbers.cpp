@@ -20,8 +20,3 @@ public:
 };
 
 
-// void solve(int curr, int tar, vector<int> ans){
-//     if(curr>tar) return;
-
-//     ans.add
-// }
