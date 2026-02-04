@@ -13,9 +13,14 @@ public:
         return dp[indx][amount]=min(nt,take);
     }
     int coinChange(vector<int>& coins, int amount) {
-        vector<vector<int>> dp(coins.size()+1,vector<int>(amount+1,-1));
+        vector<vector<int>> dp(coins.size(),vector<int>(amount+1,-1));
         int ans=solve(0,coins,amount,dp);
         if(ans==1e9) return -1;
         return ans;
+        // for(int i=coins.size()-1;i>=0;i++){
+        //     for(int j=0;j<=amount;j++){
+        //         int nt
+        //     }
+        // }
     }
 };
