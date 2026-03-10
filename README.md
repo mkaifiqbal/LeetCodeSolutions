@@ -42,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0134-gas-station/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
