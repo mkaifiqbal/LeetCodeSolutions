@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0035-search-insert-position/) | Easy |
+| [0055-jump-game](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0134-gas-station/) | Medium |
 | [0189-rotate-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0134-gas-station/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0055-jump-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
