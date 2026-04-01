@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0035-search-insert-position/) | Easy |
 | [0055-jump-game](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0055-jump-game/) | Medium |
+| [0075-sort-colors](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0134-gas-station](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0134-gas-station/) | Medium |
 | [0189-rotate-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 ## Brainteaser
