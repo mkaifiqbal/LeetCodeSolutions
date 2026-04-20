@@ -96,4 +96,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1025-divisor-game/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
