@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
+| [0496-next-greater-element-i](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Divide and Conquer
@@ -119,4 +120,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
