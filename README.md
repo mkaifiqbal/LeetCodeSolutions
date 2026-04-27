@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Divide and Conquer
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0055-jump-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1025-divisor-game/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
