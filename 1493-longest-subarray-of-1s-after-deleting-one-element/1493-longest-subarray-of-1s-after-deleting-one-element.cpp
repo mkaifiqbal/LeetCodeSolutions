@@ -11,7 +11,6 @@ public:
                 pre = next;
                 next=0;
                 ans = max(temp, ans);
-
             }else{
                 next++;
             }
