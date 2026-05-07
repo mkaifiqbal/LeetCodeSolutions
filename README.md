@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0038-count-and-say](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0058-length-of-last-word/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
