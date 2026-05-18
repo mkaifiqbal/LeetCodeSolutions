@@ -11,9 +11,9 @@ public:
             {'M',1000}
         };
         int n= s.size();
-        int pre=0;
-        int ans=0;
-        for(int i=n-1;i>=0;i--){
+        int pre=um[s[n-1]];
+        int ans=um[s[n-1]];
+        for(int i=n-2;i>=0;i--){
             if(um[s[i]]<pre){
                 ans -= um[s[i]];
             }else ans+= um[s[i]];
