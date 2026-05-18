@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0038-count-and-say](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0058-length-of-last-word/) | Easy |
 ## Binary Search
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0189-rotate-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1025-divisor-game/) | Easy |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0496-next-greater-element-i](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
