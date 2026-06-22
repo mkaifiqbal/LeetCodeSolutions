@@ -8,11 +8,9 @@ public:
         int presum=0;
         for(int i=0 ;i<n;i++){
             presum+=nums[i];
-            int rem = presum%k;
+            int rem = presum%k ;
             if(rem<0) rem= rem+k;
-            if(mp.count(rem)){
-                count+= mp[rem];
-            }
+            count+= mp[rem];
             mp[rem]++;
         }
         return count;
