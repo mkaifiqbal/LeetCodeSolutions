@@ -58,12 +58,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0134-gas-station/) | Medium |
+| [1754-largest-merge-of-two-strings](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0038-count-and-say](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0058-length-of-last-word/) | Easy |
+| [1754-largest-merge-of-two-strings](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
+| [1754-largest-merge-of-two-strings](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
