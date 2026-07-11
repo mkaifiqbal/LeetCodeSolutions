@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0055-jump-game](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0134-gas-station](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0134-gas-station/) | Medium |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0496-next-greater-element-i](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
