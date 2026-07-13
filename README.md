@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -137,12 +139,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
