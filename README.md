@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0509-fibonacci-number](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -175,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 <!---LeetCode Topics End-->
