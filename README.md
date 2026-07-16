@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0134-gas-station](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0134-gas-station/) | Medium |
 | [0189-rotate-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0035-search-insert-position/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Linked List
