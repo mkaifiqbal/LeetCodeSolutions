@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0207-course-schedule](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0207-course-schedule/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0207-course-schedule](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0207-course-schedule/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +188,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
