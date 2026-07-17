@@ -20,7 +20,7 @@ public:
             int b=q.front();
             q.pop();
             count++;
-            for(auto c:adj[b]){
+            for(auto &c:adj[b]){
                 indegree[c]--;
 
                 if(indegree[c]==0){
