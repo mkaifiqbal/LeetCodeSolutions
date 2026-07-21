@@ -17,8 +17,8 @@ public:
 
         if(rank[pu]<rank[pv]){
             parent[pu]= pv;
-        }else if(rank[pv] < rank[pu]){
-            parent[pv]=pu;
+            rank[pv]++;
+        
         }else{
             parent[pv]=pu;
             rank[pu]++;
