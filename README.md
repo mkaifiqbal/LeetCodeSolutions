@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0207-course-schedule/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0684-redundant-connection/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0207-course-schedule](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0207-course-schedule/) | Medium |
 | [0684-redundant-connection](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0684-redundant-connection/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0207-course-schedule/) | Medium |
 | [0684-redundant-connection](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0684-redundant-connection/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,4 +206,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0684-redundant-connection](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0684-redundant-connection/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 <!---LeetCode Topics End-->
