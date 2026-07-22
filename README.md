@@ -207,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0684-redundant-connection](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0684-redundant-connection/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
