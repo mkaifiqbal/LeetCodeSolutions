@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0207-course-schedule/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0684-redundant-connection/) | Medium |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
