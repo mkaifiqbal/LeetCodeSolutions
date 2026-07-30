@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0055-jump-game/) | Medium |
 | [0198-house-robber](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0198-house-robber/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1025-divisor-game/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -218,4 +220,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0175-combine-two-tables/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
