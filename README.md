@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1025-divisor-game/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,4 +225,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0494-target-sum/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
