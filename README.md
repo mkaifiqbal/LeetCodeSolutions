@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +231,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 <!---LeetCode Topics End-->
