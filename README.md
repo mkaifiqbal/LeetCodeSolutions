@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1025-divisor-game/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3870-count-commas-in-range](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/3870-count-commas-in-range/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
