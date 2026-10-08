@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0134-gas-station](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0134-gas-station/) | Medium |
+| [0179-largest-number](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
+| [0179-largest-number](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0134-gas-station/) | Medium |
+| [0179-largest-number](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0179-largest-number/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -82,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0038-count-and-say](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0179-largest-number](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0179-largest-number/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
