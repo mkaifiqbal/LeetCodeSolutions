@@ -7,10 +7,14 @@ public:
             vc.push_back(to_string(nums[i]));
         }
         for(int i=0;i<n-1;i++){
-            for(int j=i+1;j<n;j++){
-
-                if(vc[i]+vc[j] < vc[j]+vc[i]) swap(vc[i],vc[j]);
+            bool swapped = false;
+            for(int j=0;j<n-i-1;j++){
+                if(vc[j]+vc[j+1] < vc[j+1]+vc[j]) {
+                    swap(vc[j],vc[j+1]);
+                    swapped= true;
+                }
             }
+            if(!swapped) break;
         }
         if(vc[0]=="0")return "0";
         string ans="";
