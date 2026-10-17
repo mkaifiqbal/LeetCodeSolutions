@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0179-largest-number](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0189-rotate-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1754-largest-merge-of-two-strings](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
