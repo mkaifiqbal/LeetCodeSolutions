@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0061-rotate-list](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0189-rotate-array](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0189-rotate-array/) | Medium |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/mkaifiqbal/LeetCodeSolutions/tree/main/0061-rotate-list/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
